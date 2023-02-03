@@ -1,0 +1,12 @@
+#### GIT Commands
+
+git init
+git add . == add all changes
+git add <filename>
+git commit -m "message" 
+git remote add <remote name> <remote url>
+git push <remote name> <branch name>
+git clone <remote url>
+git log
+git log --oneline
+git status
